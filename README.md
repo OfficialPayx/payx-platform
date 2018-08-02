@@ -1,1 +1,1 @@
-# payx-platform
+# PAYX-PLATFORM
